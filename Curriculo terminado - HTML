@@ -1,0 +1,68 @@
+<HTML>
+
+<header>
+      <IMG SRC="https://ogimg.infoglobo.com.br/in/24918053-2a8-2dc/FT1086A/xdiscurso-lula-1.jpg.pagespeed.ic.ag8adPxuba.jpg" />
+  <div class="bege">
+    </div>
+  <div>
+    
+    <H4>Lula da Silva </H4>
+    <H1></H1>
+    <H3>Presidente de 9 dedos</H3>
+    <HR />
+    <UL>
+      <LI> linkedin </LI>
+      <LI> instagram </LI>
+      <LI> Linkedin </LI>
+    </UL>
+  </div>
+ </header>
+
+<SECTION>
+  <label class=exp>experience</label>
+  <hr class="lolo"/>
+  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sociosqu aliquet, euismod laoreet ultrices varius augue porta donec phasellus, quis mattis congue inceptos curabitur dictumst felis habitant. Class porttitor elementum.</p>
+  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sociosqu aliquet, euismod laoreet ultrices varius augue porta donec phasellus, quis mattis congue inceptos curabitur dictumst felis habitant. Class porttitor elementum.</p>
+  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sociosqu aliquet, euismod laoreet ultrices varius augue porta donec phasellus, quis mattis congue inceptos curabitur dictumst felis habitant. Class porttitor elementum.</p>
+   <label class=curso>curso de treinamentos</label>
+  <hr class="lolo2"/>
+ <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sociosqu aliquet, euismod laoreet ultrices varius augue porta donec phasellus, quis mattis congue inceptos curabitur dictumst felis habitant. Class porttitor elementum.</p>
+  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sociosqu aliquet, euismod laoreet ultrices varius augue porta donec phasellus, quis mattis congue inceptos curabitur dictumst felis habitant. Class porttitor elementum.</p>
+  
+   <label class=cutrei>curso de formação</label>
+  <hr class="lolo3"/>
+  <li class=baixo><p>Praesent neque.</P>
+                  <p>Praesent neque.</P>
+                  <p>Praesent neque.</P></li>
+  <li class=baixo2><p>Praesent neque.</P>
+                   <p>Praesent neque.</P>
+                   <p>Praesent neque.</P></li>
+ </SECTION>
+
+<ASIDE>
+  <label class=di>About me</label>
+  <ul>
+        <p class=direita>
+          Praesent neque auctor id aliquam, cursus dignissim nec donec, dis torquent etiam. Eros purus mattis ac class et sapien, mi convallis interdum vehicula neque potenti quisque, iaculis suscipit congue bibendum tempor. Platea ante dolor aptent taciti dapibus torquent proin . </p>
+    <label class=di>contato</label>
+  <ul>
+          <li class=direit>Rua do lula, número 9</li>
+          <li class=direit>11 44028922</li>.
+          <li class=direit>lulinha@gmail.com</li>.
+          <li class=direit>lulinha9dedos/</li>.
+    </LI>
+    <label class=di2>ablidades</label>
+  <ul>
+          <li class=direit>Roubar</li>
+          <li class=direit>mentir</li>.
+          <li class=direit>não pagar imposto</li>.
+          <li class=direit>adoravel</li>.
+    </LI>
+    <label class=di3>Hobbies</label>
+  <ul>
+          <li class=direit3>Roubar</li>
+          <li class=direit3>mentir</li>.
+          <li class=direit3>não pagar imposto</li>.
+          <li class=direit3>adoravel</li>.
+    </LI>
+ </ASIDE>

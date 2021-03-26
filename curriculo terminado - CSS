@@ -1,0 +1,235 @@
+<CSS>
+
+*
+{
+  Font-family: sans-serif;       /*familia da font*/
+  margin: 0px;
+}
+
+header
+{
+  WIDTH: 800PX;
+  HEIGHT: 250PX;
+  BORDER: 5PX SOLID #F5FFFA;
+}
+
+SECTION
+{
+  display: inline-block;
+  WIDTH: 480PX;
+  HEIGHT: 640PX;
+  VERTICAL-ALIGN: TOP;
+  BORDER: 4PX SOLID #F5FFFA;
+}
+
+ASIDE
+{
+  display: inline-block;
+  WIDTH: 310PX;
+  HEIGHT: 610PX;
+  VERTICAL-ALIGN: TOP;
+  BORDER: 4PX SOLID #2F4F4F;
+  background: linear-gradient(to right, #2F4F4F 100%, #ffffff 80%);
+}
+DIV
+{
+  DISPLAY: INLINE-BLOCK;
+  WIDTH: 391PX;
+  HEIGHT: 248PX;
+  border: 50px;
+  position: absolute;
+  VERTICAL-ALIGN: TOP;  /*SUBIR TODO O texto*/
+}
+IMG
+{
+  margin-top: 50px;             /*adicionar pixels a borda vertical*/
+  margin-right: 150px;          /*adicionar pixels a borda horizontal*/
+  margin: 1px;                 /*margin até a borda*/
+  float: right;                 /*flutuar da imagem*/
+  WIDTH: 260PX;                 /*altura da imagem*/
+  HEIGHT: 245PX;                /*largura da imagem*/
+  BORDER: 2PX SOLID #FFFFFF;    /*borda da imagem*/
+}
+
+LABEL
+{
+  display: block;
+  margin: 20px px 0px 0px;
+  font-size: 24px;
+  color: #800080;
+  border: 2px solid #000000
+}
+
+P
+{
+  display: block;               /*definir como bloco*/
+  margin: 10px 135px;
+  margin: 10px 40px 0px 120px;
+  border-left: 2px solid #000000;
+  text-align: justify;           /*justificar o texto*/
+  font-size: 12px;
+}
+.bege
+{
+  background: linear-gradient(to right, #F4A460 100%, #ffffff 80%); /*mexer no fundo com cor,imagem e etc...*/
+  width: 550px
+}
+
+H4
+{
+  text-align: center;     /*mover para cima*/
+  font-size: 36px;      /*tamanho da fonte*/
+  letter-spacing: 5px; 
+  margin: 50px -30px 20px 50px;
+  border: 2px solid #000000;
+}
+
+H3
+{
+  font-size: 14px;
+  letter-spacing: 3px;
+  text-align: center;         /*escolher a posição do texto*/
+  margin: -30px 40px 0px 120px;
+  osition: relative;
+  background: #F4A460;
+  border: 2px solid #80080;
+}
+
+HEADER LI
+{
+  margin: 10px 18px;          
+  text-align: center;
+  letter-spacing: 1px;
+  float: right;
+  Display: inline-block; /*forma como ele vai ser exibido na página*/
+  
+                            /*inline-block = bloco da linha*/
+  
+  /*margim com 1 valor (todas as bordas), margem com 2 valores (bordas horizontais e verticais) e com 4 valores (bordas em centido horário começando pelo topo*/
+}
+
+HR
+{
+  margin: 16px 16%;              /*a porcentagem para mexer de cada lado*/
+  width: 90%;
+  border: 2px solid #000000;
+  margin-right: -100px;
+}
+
+.lolo
+{
+  width: 340px;
+  float: right; 
+  border: px solid #800080;
+  margin-top: -15px;
+  margin-right: 10px;
+  DISPLAY: INLINE-BLOCK;
+}
+.exp
+{
+  color: #000000;
+  margin: 20px 360px 0px 0px;
+}
+
+.curso
+{
+  color: #000000;
+  margin: 20px 230px 20px 0px;
+}
+
+.cutrei
+{
+  color: #000000;
+  margin: 10px 270px 20px 0px;
+}
+
+.direita
+{
+  border: 0px solid #F0F000;
+  margin: 0px 15px 0px -20px;
+  display: inline-block;
+  color: #F5FFFA
+}
+
+.di
+{
+  font-size: 17px;
+  text-align: center;
+  border: 2px solid #F4A460;
+  margin: 10px 105px 20px 80px;
+  color: #F5FFFA
+}
+
+.direit
+{
+  font-size: 11px;
+  border: 0px solid #F0F000;
+  margin: 0px 20px 0px -50px;
+  color: #F5FFFA;
+  letter-spacing: 2px;
+}
+
+.di2
+{
+  font-size: 17px;
+  text-align: center;
+  color: #F5FFFA;
+  margin: 0px 110px 20px -10px;
+  border: 2px solid #F5FFFA;
+}
+
+.di3
+{
+  font-size: 17px;
+  text-align: center;
+  color: #F5FFFA;
+  margin: 0px 100px 20px -10px;
+  border: 2px solid #F5FFFA;
+}
+
+.direit3
+{
+  font-size: 11px;
+  border: 0px solid #F0F000;
+  margin: 0px 20px 0px -100px;
+  color: #F5FFFA;
+  letter-spacing: 2px;         
+}
+
+.lolo2
+{
+  width: 210px;
+  float: right; 
+  border: px solid #800080;
+  margin-top: -35px;
+  margin-right: 10px;
+  DISPLAY: INLINE-BLOCK;
+}
+
+.lolo3
+{
+  width: 250px;
+  float: right; 
+  border: px solid #800080;
+  margin-top: -35px;
+  margin-right: 10px;
+  DISPLAY: INLINE-BLOCK;
+}
+
+.baixo
+{
+  margin: -10px 320px 0px -200px;          
+  text-align: center;
+  letter-spacing: 1px;
+  float: right;
+  Display: inline-block;
+}
+
+.baixo2
+{
+  margin: -75px 110px 0px 0px;          
+  text-align: center;
+  letter-spacing: 1px;
+  float: right;
+  Display: inline-block;
+}
